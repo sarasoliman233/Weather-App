@@ -10,7 +10,7 @@ It allows users to search for any city and instantly view the current weather co
 ![Search Screen](ScreenShots/SearchScreen.png)
 ![Searching Screen](ScreenShots/Searching.png)
 ![Home Screen](ScreenShots/HomeScreen.png)
-![Error Screen](ScreenShots/Error Screen.png)
+![Error Screen](ScreenShots/ErrorScreen.png)
 
 ✅ Features
 
