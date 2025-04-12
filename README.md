@@ -30,7 +30,7 @@ Responsive Design: The app's interface adapts seamlessly to different screen siz
 
 Flutter: For building a cross-platform mobile user interface.
 Cubit (Bloc State Management): To manage state changes efficiently and ensure smooth updates in the app.
-OpenWeatherMap API (or your API of choice): For fetching live weather data.
+OpenWeatherMap API : For fetching live weather data.
 Dart: The core programming language used with Flutter.
 Custom Widgets: For reusable UI components that help maintain cleaner and more manageable code.
 Animation: Flutter's built-in animation capabilities to add dynamic effects throughout the app for better user interaction.
